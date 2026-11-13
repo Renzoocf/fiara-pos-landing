@@ -7,7 +7,7 @@
 
 ## 🚀 Demo en Vivo
 Puedes ver la landing page en vivo publicada en GitHub Pages:
-🔗 **[Ver Landing Page](https://tu-usuario.github.io/fiara-pos/)** *(reemplaza con tu enlace de GitHub Pages)*
+🔗 **[https://renzoocf.github.io/fiara-pos-landing/](https://renzoocf.github.io/fiara-pos-landing/)**
 
 ---
 
